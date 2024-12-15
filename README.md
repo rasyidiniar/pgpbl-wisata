@@ -1,2 +1,2 @@
-# Kompone Aplikasi Desa Wisata
+# Komponen Aplikasi Desa Wisata
 Responsi PGPBL 
