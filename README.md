@@ -1,2 +1,2 @@
-# Responsi-PGPBL
-Responsi PGPBL Semangat
+# Kompone Aplikasi Desa Wisata
+Responsi PGPBL 
