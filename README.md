@@ -1,2 +1,2 @@
-# pgpbl-wisata
-Komponen Pendukung Aplikasi Desa Wisata di Daerah Istimewa Yogyakarta
+# Responsi-PGPBL
+Responsi PGPBL Semangat
